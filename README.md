@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over three
 ## 📫 Let's Connect
 
 - **Email:** :Achraf.melkii@gmail.com
-- **LinkedIn:** :[contentReference[oaicite:31]{index=31}](https://www.linkedin.com/in/achraf-melki-tn/)
+- **LinkedIn:** : www.linkedin.com/in/achraf-melki-tn/
 
 ---
 
