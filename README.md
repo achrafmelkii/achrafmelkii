@@ -20,11 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over three
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
